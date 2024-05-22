@@ -5,4 +5,4 @@ Meu nome é FishuU Proença, tenho 16 anos e moro no centro de Campinas, aonde t
 - feito no alura XD e estou me desenvolvendo em linguagem JavaScript
 @FishuUde2099
 
-![]https://tenor.com/pt-BR/view/jojos-bizarre-adventure-yoshikage-kira-jjba-jjba-kira-blorbo-gif-27420059
+![](https://tenor.com/pt-BR/view/jojos-bizarre-adventure-yoshikage-kira-jjba-jjba-kira-blorbo-gif-27420059)
